@@ -28,7 +28,7 @@ IMPORTANT: Once you've got an `.adoc` document going, download the link:css/asci
 
 == Demo
 
-You can preview all of the stylesheets in the https://darshandsoni.com/asciidoctor-skins[online demo].
+You can preview all of the stylesheets in the https://zh3036.github.io/asciidoctor-skins[online demo].
 
 To change the displayed stylesheet, just add the name of the CSS file after a `?` character at the end of the URL. For example, to preview the material stylsheet, just add `?material`.
 
@@ -36,50 +36,50 @@ To change the displayed stylesheet, just add the name of the CSS file after a `?
 
 You can now add a JS switcher to any document to quickly preview the contents rendered with any of the available asciidoctor skins. Just add the following line to the `<body>` section of any asciidoctor-generated HTML page:
 
-    <script src="https://darshandsoni.com/asciidoctor-skins/switcher.js" type="text/javascript"></script>
+    <script src="https://zh3036.github.io/asciidoctor-skins/switcher.js" type="text/javascript"></script>
 
 == Skins
 
-Note: To preview all of them, visit the https://darshandsoni.com/asciidoctor-skins/screenshots/[screenshots] page.
+Note: To preview all of them, visit the https://zh3036.github.io/asciidoctor-skins/screenshots/[screenshots] page.
 
 Available stylesheets:
 
-* https://darshandsoni.com/asciidoctor-skins/?asciidoctor[default asciidoctor stylesheet]
-* https://darshandsoni.com/asciidoctor-skins/?clean[clean]
-* https://darshandsoni.com/asciidoctor-skins/?dark[dark]
-* https://darshandsoni.com/asciidoctor-skins/?fedora[fedora]
-* https://darshandsoni.com/asciidoctor-skins/?gazette[gazette]
-* https://darshandsoni.com/asciidoctor-skins/?italian-pop[italian-pop]
-* https://darshandsoni.com/asciidoctor-skins/?medium[medium]
-* https://darshandsoni.com/asciidoctor-skins/?monospace[monospace]
-* https://darshandsoni.com/asciidoctor-skins/?notebook[notebook]
-* https://darshandsoni.com/asciidoctor-skins/?plain[plain]
-* https://darshandsoni.com/asciidoctor-skins/?template[template]
-* https://darshandsoni.com/asciidoctor-skins/?tufte[tufte]
-* https://darshandsoni.com/asciidoctor-skins/?ubuntu[ubuntu]
+* https://zh3036.github.io/asciidoctor-skins/?asciidoctor[default asciidoctor stylesheet]
+* https://zh3036.github.io/asciidoctor-skins/?clean[clean]
+* https://zh3036.github.io/asciidoctor-skins/?dark[dark]
+* https://zh3036.github.io/asciidoctor-skins/?fedora[fedora]
+* https://zh3036.github.io/asciidoctor-skins/?gazette[gazette]
+* https://zh3036.github.io/asciidoctor-skins/?italian-pop[italian-pop]
+* https://zh3036.github.io/asciidoctor-skins/?medium[medium]
+* https://zh3036.github.io/asciidoctor-skins/?monospace[monospace]
+* https://zh3036.github.io/asciidoctor-skins/?notebook[notebook]
+* https://zh3036.github.io/asciidoctor-skins/?plain[plain]
+* https://zh3036.github.io/asciidoctor-skins/?template[template]
+* https://zh3036.github.io/asciidoctor-skins/?tufte[tufte]
+* https://zh3036.github.io/asciidoctor-skins/?ubuntu[ubuntu]
 
-NOTE: the https://darshandsoni.com/asciidoctor-skins/?template[template] skin is specifically designed as an aid for theming experiments, to make it easier to see the sections of the document affected by different CSS classes.
+NOTE: the https://zh3036.github.io/asciidoctor-skins/?template[template] skin is specifically designed as an aid for theming experiments, to make it easier to see the sections of the document affected by different CSS classes.
 
 === Additional themes
 
-* https://darshandsoni.com/asciidoctor-skins/?asciidoc-classic[Asciidoc Classic] - The original default http://asciidoc.org/[AsciiDoc] stylesheet by Stuart Rackham. Licensed under https://github.com/asciidoc/asciidoc/blob/master/COPYING[GPLv2].
+* https://zh3036.github.io/asciidoctor-skins/?asciidoc-classic[Asciidoc Classic] - The original default http://asciidoc.org/[AsciiDoc] stylesheet by Stuart Rackham. Licensed under https://github.com/asciidoc/asciidoc/blob/master/COPYING[GPLv2].
 
 === Collections
 
 **Adoc skins**, based on the official https://themes.asciidoctor.org/preview/[Asciidoctor themes site] by the Asciidoctor project (https://github.com/asciidoctor/asciidoctor-stylesheet-factory/blob/master/LICENSE[MIT]):
 
-* https://darshandsoni.com/asciidoctor-skins/?adoc-colony.css[Colony]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-foundation-lime.css[Lime]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-foundation-potion.css[Potion]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-foundation.css[Foundation]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-github.css[Github]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-golo.css[Golo]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-iconic.css[Iconic]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-maker.css[Maker]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-readthedocs.css[Readthedocs]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-riak.css[Riak]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-rocket-panda.css[Panda]
-* https://darshandsoni.com/asciidoctor-skins/?adoc-rubygems.css[Rubygems]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-colony.css[Colony]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-foundation-lime.css[Lime]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-foundation-potion.css[Potion]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-foundation.css[Foundation]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-github.css[Github]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-golo.css[Golo]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-iconic.css[Iconic]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-maker.css[Maker]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-readthedocs.css[Readthedocs]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-riak.css[Riak]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-rocket-panda.css[Panda]
+* https://zh3036.github.io/asciidoctor-skins/?adoc-rubygems.css[Rubygems]
 
 **Bootswatch skins**, based on https://github.com/thomaspark/bootswatch/[bootswatch] by @thomaspark (https://github.com/thomaspark/bootswatch/blob/gh-pages/LICENSE[MIT]):
 
@@ -100,16 +100,16 @@ NOTE: the https://darshandsoni.com/asciidoctor-skins/?template[template] skin is
 
 **Material skins**, by @darshandsoni:
 
-* https://darshandsoni.com/asciidoctor-skins/?material-amber[material amber]
-* https://darshandsoni.com/asciidoctor-skins/?material-blue[material blue]
-* https://darshandsoni.com/asciidoctor-skins/?material-brown[material brown]
-* https://darshandsoni.com/asciidoctor-skins/?material-green[material green]
-* https://darshandsoni.com/asciidoctor-skins/?material-grey[material grey]
-* https://darshandsoni.com/asciidoctor-skins/?material-orange[material orange]
-* https://darshandsoni.com/asciidoctor-skins/?material-pink[material pink]
-* https://darshandsoni.com/asciidoctor-skins/?material-purple[material purple]
-* https://darshandsoni.com/asciidoctor-skins/?material-red[material red]
-* https://darshandsoni.com/asciidoctor-skins/?material-teal[material teal]
+* https://zh3036.github.io/asciidoctor-skins/?material-amber[material amber]
+* https://zh3036.github.io/asciidoctor-skins/?material-blue[material blue]
+* https://zh3036.github.io/asciidoctor-skins/?material-brown[material brown]
+* https://zh3036.github.io/asciidoctor-skins/?material-green[material green]
+* https://zh3036.github.io/asciidoctor-skins/?material-grey[material grey]
+* https://zh3036.github.io/asciidoctor-skins/?material-orange[material orange]
+* https://zh3036.github.io/asciidoctor-skins/?material-pink[material pink]
+* https://zh3036.github.io/asciidoctor-skins/?material-purple[material purple]
+* https://zh3036.github.io/asciidoctor-skins/?material-red[material red]
+* https://zh3036.github.io/asciidoctor-skins/?material-teal[material teal]
 
 == Bookmarklet
 
@@ -120,7 +120,7 @@ You can quickly and easily test out how different themes look with a given docum
 javascript:(function()%7Bvar%20body%20%3D%20document.getElementsByTagName('body')%5B0%5D%3Bscript%20%3D%20document.createElement('script')%3Bscript.type%3D%20'text%2Fjavascript'%3Bscript.src%3D%20'https%3A%2F%2Fdarshandsoni.com%2Fasciidoctor-skins%2Fswitcher.js'%3Bbody.appendChild(script)%7D)()
 ----
 
-Alternatively, just drag the link on the https://darshandsoni.com/asciidoctor-skins/#_bookmarklet[demo page] to your browser's bookmark bar.
+Alternatively, just drag the link on the https://zh3036.github.io/asciidoctor-skins/#_bookmarklet[demo page] to your browser's bookmark bar.
 
 Boomarklet generated by the https://mrcoles.com/bookmarklet/[Bookmarklet Creator]. Thanks to https://github.com/mrcoles/markdown-css[markdown-css] for the idea!
 
