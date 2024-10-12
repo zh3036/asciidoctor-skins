@@ -117,7 +117,7 @@ You can quickly and easily test out how different themes look with a given docum
 
 [source,javascript]
 ----
-javascript:(function()%7Bvar%20body%20%3D%20document.getElementsByTagName('body')%5B0%5D%3Bscript%20%3D%20document.createElement('script')%3Bscript.type%3D%20'text%2Fjavascript'%3Bscript.src%3D%20'https%3A%2F%2Fdarshandsoni.com%2Fasciidoctor-skins%2Fswitcher.js'%3Bbody.appendChild(script)%7D)()
+javascript:(function()%7Bvar%20body%20%3D%20document.getElementsByTagName('body')%5B0%5D%3Bscript%20%3D%20document.createElement('script')%3Bscript.type%3D%20'text%2Fjavascript'%3Bscript.src%3D%20'https%3A%2F%2Fzh3036.github.io%2Fasciidoctor-skins%2Fswitcher.js'%3Bbody.appendChild(script)%7D)()
 ----
 
 Alternatively, just drag the link on the https://zh3036.github.io/asciidoctor-skins/#_bookmarklet[demo page] to your browser's bookmark bar.
